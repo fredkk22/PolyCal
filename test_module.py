@@ -1,7 +1,7 @@
 import unittest
 import shape_calculator
 
-
+# Run "python3 test_module.py" in the terminal to run the following unit tests!
 class UnitTests(unittest.TestCase):
     maxDiff = None
     def setUp(self):
