@@ -1,6 +1,5 @@
 # This entrypoint file to be used in development. Start by reading README.md
 import shape_calculator
-from unittest import main
 
 # EXAMPLE CODE BELOW (Edit this code to your desire)
 rect = shape_calculator.Rectangle(5, 10)
