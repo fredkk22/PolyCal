@@ -6,7 +6,7 @@ This is a basic Python application that employs the math and unittest modules al
 ## Usage
 In `main.py`, initialize your object instance using the `Rectangle` class created in `shape_calculator.py`! <br>
 <br>
-`NOTE: The Square class is a subclass of the Rectangle class.` <br>
+<em>NOTE:<em> The Square class is a <em>subclass<em> of the Rectangle class. <br>
 <br>
 Using the methods created in `shape_calculator.py`, you can view the shape; change the height or width; calculate the area, perimeter, or diagonal; and find out how many squares fit in each rectangle in `main.py`. Then, run the following command in the terminal to view your resulting budget: `python3 main.py`. <br>
 <br>
