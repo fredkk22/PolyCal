@@ -13,7 +13,7 @@ Using the methods created in `shape_calculator.py`, you can view the shape; chan
 If you would like to run the unit tests, please run `python3 test_module.py` in the terminal.
 
 ## Creator
-Freddy Kwak: https://www.linkedin.com/in/fred-yj-kwak/ | https://www.github.com/fredkk22
+Freddy Kwak: https://www.linkedin.com/in/fred-yj-kwak/ | https://www.github.com/fredkk22 | https://www.fredyjkwak.com
 
 ## Contact Me
 If you have any questions about Freddy Kwak or this application, please email him at: freddykwak123@gmail.com
